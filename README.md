@@ -10,4 +10,4 @@ Tensorflow 官方手册CNN-Cifar10代码
 *[cifar10_eval.py](https://github.com/Mister5ive/cifar-10/blob/master/cifar10_eval.py)	评估CIFAR-10模型的预测性能。
 
 
-[博客地址]（https://blog.csdn.net/hyqwmxsh/article/details/82556299）
+[博客地址](https://blog.csdn.net/hyqwmxsh/article/details/82556299）)
